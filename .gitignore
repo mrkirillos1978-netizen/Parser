@@ -1,0 +1,6 @@
+.env
+leads.db
+user_session.session
+user_session.session-journal
+__pycache__/
+*.pyc
